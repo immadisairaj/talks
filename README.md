@@ -5,6 +5,8 @@
 
 ## Flutter Web Renderers
 
+![IMG_2580](https://user-images.githubusercontent.com/40348358/233686331-e68240bf-52ac-486a-9c6e-671a59a5068a.JPG)
+
 Date: 29th April, 2023
 
 This is my first offline event for me as a speaker. This talk covers all one needs to know about Flutter Web, about it's two renderers. Each renderer has it's own limitations and this talk covers some of them with given examples. And, what renderer is best for particular usecase.
