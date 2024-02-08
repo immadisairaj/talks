@@ -1,7 +1,17 @@
 | Talk | Date |
 | - | - |
+| [Flutter Everywhere](#flutter-everywhere) | 10th February, 2024 |
 | [Flutter Web Renderers](#flutter-web-renderers) | 29th April, 2023 |
 | [Getting Started with Firebase for Flutter](#getting-started-with-firebase-for-flutter) | 22nd March, 2023 |
+
+## Flutter Everywhere
+
+Date: 10th February, 2024
+
+The talk covers some of the basic things about Hot-Reload and on how Flutter works on different platforms plus some intro to Platform Channels & FFI.
+
+- [Slides Link (Keynote)](https://github.com/immadisairaj/talks/tree/main/flutter_everywhere_10022024/Flutter%20Everywhere.key)
+- [Slides Link (pptx)](https://github.com/immadisairaj/talks/tree/main/flutter_everywhere_10022024/Flutter%20Everywhere.pptx)
 
 ## Flutter Web Renderers
 

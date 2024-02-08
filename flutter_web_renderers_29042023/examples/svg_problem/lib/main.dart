@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 
 void main() {
   runApp(const MyApp());
@@ -29,11 +28,11 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: SvgPicture.asset('assets/Firefox.svg'),
-        // child: Image.network(
-        //     'https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg'),
+        // child: SvgPicture.asset('assets/Firefox.svg'),
+        child: Image.network(
+            'https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg'),
         // child: SvgPicture.asset(
-        //   'assets/Firefox.svg',
+        //   'assets/flutter_logo.svg',
         //   colorFilter:
         //       const ColorFilter.mode(Colors.blue, BlendMode.difference),
         // ),
