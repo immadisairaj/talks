@@ -14,6 +14,7 @@ The talk covers some of the basic things about Hot-Reload and on how Flutter wor
 
 - [Slides Link (Keynote)](https://github.com/immadisairaj/talks/tree/main/flutter_everywhere_10022024/Flutter%20Everywhere.key)
 - [Slides Link (pptx)](https://github.com/immadisairaj/talks/tree/main/flutter_everywhere_10022024/Flutter%20Everywhere.pptx)
+- [LinkedIn Link](https://www.linkedin.com/posts/immadisairaj_fluttercbe-jit-activity-7161586506678161408-A_Et)
 
 ## Flutter Web Renderers
 
