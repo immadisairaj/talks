@@ -6,6 +6,8 @@
 
 ## Flutter Everywhere
 
+![1707401319863](https://github.com/immadisairaj/talks/assets/40348358/38e5eded-3f5e-4d57-b81d-50233e411ace)
+
 Date: 10th February, 2024
 
 The talk covers some of the basic things about Hot-Reload and on how Flutter works on different platforms plus some intro to Platform Channels & FFI.
