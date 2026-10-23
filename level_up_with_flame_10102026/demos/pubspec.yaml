@@ -1,0 +1,20 @@
+name: flame_showcase
+description: Demos and benchmarks for the talk "Level Up your Flutter Apps with Flame".
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.13.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.38.2
+  material_ui: ^1.5.0
+  flame_forge2d: ^0.20.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

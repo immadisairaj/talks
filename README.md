@@ -1,8 +1,17 @@
 | Talk | Date |
 | - | - |
+| [Level Up Your Flutter Apps with Flame](#level-up-your-flutter-apps-with-flame) | 10th October, 2026 |
 | [Flutter Everywhere](#flutter-everywhere) | 10th February, 2024 |
 | [Flutter Web Renderers](#flutter-web-renderers) | 29th April, 2023 |
 | [Getting Started with Firebase for Flutter](#getting-started-with-firebase-for-flutter) | 22nd March, 2023 |
+
+## Level Up Your Flutter Apps with Flame
+
+![IMG_2580](https://github.com/immadisairaj/talks/tree/main/level_up_with_flame_10102026/Sai-rajendra.png)
+
+Date: 10th October, 2026
+
+- [Slides Link (Keynote)](https://github.com/immadisairaj/talks/tree/main/level_up_with_flame_10102026/Level%20Up%20Your%20Flutter%20Apps%20with%20Flame.key)
 
 ## Flutter Everywhere
 

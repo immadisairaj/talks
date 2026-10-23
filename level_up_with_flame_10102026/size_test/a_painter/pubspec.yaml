@@ -1,0 +1,13 @@
+name: a_painter
+description: App-size test for the Flame talk.
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: ">=3.13.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  material_ui: ^1.5.0
+
+flutter:
+  uses-material-design: true
