@@ -7,7 +7,7 @@
 
 ## Level Up Your Flutter Apps with Flame
 
-![IMG_2580](https://github.com/immadisairaj/talks/tree/main/level_up_with_flame_10102026/Sai-rajendra.png)
+![Level Up with Flame - Sai Rajendra](https://github.com/immadisairaj/talks/tree/main/level_up_with_flame_10102026/Sai-rajendra.png)
 
 Date: 10th October, 2026
 
