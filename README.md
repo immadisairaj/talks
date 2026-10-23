@@ -11,7 +11,7 @@
 
 Date: 10th October, 2026
 
-- [Slides Link (Keynote)](https://github.com/immadisairaj/talks/tree/main/level_up_with_flame_10102026/Level%20Up%20Your%20Flutter%20Apps%20with%20Flame.key)
+- [Slides Link (Keynote)](https://github.com/immadisairaj/talks/blob/main/level_up_with_flame_10102026/Level%20Up%20with%20Flame.key)
 
 ## Flutter Everywhere
 
